@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+string a="atika";
+ a[0]='b';
+cout<<a[0]<<" "<<a[4];
+
+return 0;
+}
